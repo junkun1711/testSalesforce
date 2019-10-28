@@ -9,5 +9,8 @@ public class Abc {
 		str.lastIndexOf('@');
 		// test by qiang
 		System.debug('>>>' + str);
+		
+		// test by in https://dev.azure.com/
+		System.debug('>>>' + str2);
 	}
 }
