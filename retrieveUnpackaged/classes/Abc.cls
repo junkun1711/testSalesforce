@@ -7,5 +7,7 @@ public class Abc {
 		List<String> lst;
 		Set<String> st;
 		str.lastIndexOf('@');
+		// test by qiang
+		System.debug('>>>' + str);
 	}
 }
